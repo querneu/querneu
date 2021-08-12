@@ -1,5 +1,5 @@
 ### Hello there!
--![Hello there](https://media1.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
+![Hello there](https://media1.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 - 🔭 I’m currently working on A. Telecom
 - 🌱 I’m currently learning Dot Net CORE
 - 👯 I’m looking to collaborate on Cisco Platform Automation

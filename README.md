@@ -1,5 +1,5 @@
 ### Hello there!
-[Alt Text](https://c.tenor.com/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif)
+[Hello There](https://c.tenor.com/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif)
 - 🔭 I’m currently working on A. Telecom
 - 🌱 I’m currently learning Dot Net CORE
 - 👯 I’m looking to collaborate on Cisco Platform Automation

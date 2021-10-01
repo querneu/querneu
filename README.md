@@ -1,7 +1,6 @@
 ![Hello there](https://media1.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 - 🔭 I’m currently working on A. Telecom
 - 🌱 I’m currently learning Dot Net CORE
-- 👯 I’m looking to collaborate on Cisco Platform Automation
 - 🤔 I’m looking for help with Paying my bills <3 
 - 💬 Ask me about who is the best waifu and I'll say Senjougahara!
 - 📫 How to reach me: Take my hand and make me do it!
